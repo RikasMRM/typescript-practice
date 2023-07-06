@@ -14,7 +14,7 @@
 - 🔗 [Chapter7 - Index Signatures & keyof Assertions](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter7)
 - 🔗 [Chapter8 - Generics](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter8)
 - 🔗 [Chapter9 -  Utility Types](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter9)
-- 🔗 [Chapter10 - TypeScript Project](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter10)
+- 🔗 [Chapter10 - TypeScript Project - Todo list](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter10)
 - 🔗 [Chapter11 - React + TypeScript](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter11)
 - 🔗 [Chapter12 - React Hooks + TypeScript](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter12)
 - 🔗 [Chapter13 - React useReducer + TypeScript](https://github.com/RikasMRM/typescript-practice/tree/main/Chapter13)
