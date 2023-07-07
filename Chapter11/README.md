@@ -1,3 +1,3 @@
-# 👋 Chapter 11- React + TypeScript - Add two functions
+# 👋 Chapter 11- React + TypeScript
 
-<!-- ![My Image](pic.jpg) -->
+![My Image](pic.jpg)
